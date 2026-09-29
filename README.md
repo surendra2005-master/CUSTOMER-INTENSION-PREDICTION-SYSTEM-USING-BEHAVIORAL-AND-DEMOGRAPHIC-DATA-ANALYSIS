@@ -1,0 +1,2 @@
+# CUSTOMER-INTENSION-PREDICTION-SYSTEM-USING-BEHAVIORAL-AND-DEMOGRAPHIC-DATA-ANALYSIS
+Understanding customer behavior is essential to boost sales. Traditional marketing relies on manual analysis, making it hard to identify buyers. The proposed Customer Purchase Intention Prediction System uses machine learning to predict purchases using demographics and online behavior, offering actionable insights to improve marketing strategies.
